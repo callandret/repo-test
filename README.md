@@ -15,3 +15,5 @@ Testing how branching and merging works. Not seeing any change. Checking order o
 Lorem ipsum dolor. 
 Why did all that head stuff remain?
 
+# Working on the Third Test Branch
+Repetion is key to learning how to actually do something effectively. 
