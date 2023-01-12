@@ -5,3 +5,6 @@ The issue I had with connecting to my Github repo via SSH was because I hadn't a
 
 # Testing Branching
 Although I understand the theory of branching and it's utility, I haven't dealt with it in practice. Here we go!
+
+# Testing Pulling
+Adding a few lines and seeing what it's like to pull things down locally.
