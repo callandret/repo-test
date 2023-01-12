@@ -8,3 +8,6 @@ Although I understand the theory of branching and it's utility, I haven't dealt 
 
 # Testing Pulling
 Adding a few lines and seeing what it's like to pull things down locally.
+
+# Testing Branch Second Go-Round
+Testing how branching and merging works. Not seeing any change. Checking order of operations.
