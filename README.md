@@ -3,5 +3,5 @@ The issue I had with connecting to my Github repo via SSH was because I hadn't a
 
 `ssh-add -K ~/.ssh/"add name of your public key here"`
 
-#Testing Branching
+# Testing Branching
 Although I understand the theory of branching and it's utility, I haven't dealt with it in practice. Here we go!
