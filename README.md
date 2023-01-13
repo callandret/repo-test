@@ -21,3 +21,7 @@ Repetion is key to learning how to actually do something effectively.
 # Can I Make Nerd Tech Things Fun to Understand?
 
 Great question. It depends.
+
+# Do I Actually Know How to Pull Code from Github?
+
+Great question. Let's see.
