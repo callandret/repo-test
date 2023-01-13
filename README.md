@@ -17,3 +17,7 @@ Why did all that head stuff remain?
 
 # Working on the Third Test Branch
 Repetion is key to learning how to actually do something effectively. 
+
+# Can I Make Nerd Tech Things Fun to Understand?
+
+Great question. It depends.
